@@ -1,0 +1,21 @@
+===================== 
+Prompt 1 diccionarios:
+=====================
+Necesito un programa en python para crear un la gestion de una tienda de musica de formato como los libros (en este caso cds) 
+y si esta disponible y los clientes de manera de una gestion sencilla, en el cual pueda intertar, modificar, y eliminar registros, 
+calcular el promedio de alquileres de la empresa , que tenga que usar un bucle for en algun lado y que pueda hacerlo mediante interfaz
+
+===================== 
+Prompt 2:
+=====================
+Tiene un pequeño fallo y es que al registrar alquiler solo me deja seleccionar 1 solo campo no uno de cds y ptrp de clientes
+
+===================== 
+Prompt 3:
+=====================
+Y puedes guardar la base de datos en un txt? y ademas dame un boton para desagsignarle el cd al cliente
+
+===================== 
+Prompt 4:
+=====================
+Ademas cuando se alquila en el cd puedes poner Alquilado por "Nombre del cliente

@@ -1,0 +1,47 @@
+{
+  "cds": [
+    {
+      "titulo": "Estopa 1",
+      "disponible": false,
+      "alquilado_por": "Marta España"
+    },
+    {
+      "titulo": "Estopía",
+      "disponible": true,
+      "alquilado_por": null
+    },
+    {
+      "titulo": "Mägo de Oz",
+      "disponible": false,
+      "alquilado_por": "Pedro Cabezas"
+    },
+    {
+      "titulo": "AC:DC",
+      "disponible": false,
+      "alquilado_por": "Alberto Camela"
+    },
+    {
+      "titulo": "The Big Time Rush",
+      "disponible": false,
+      "alquilado_por": "Cristina Chicote"
+    }
+  ],
+  "clientes": [
+    {
+      "nombre": "Alberto Camela",
+      "alquileres": 4
+    },
+    {
+      "nombre": "Cristina Chicote",
+      "alquileres": 1
+    },
+    {
+      "nombre": "Pedro Cabezas",
+      "alquileres": 1
+    },
+    {
+      "nombre": "Marta España",
+      "alquileres": 1
+    }
+  ]
+}
