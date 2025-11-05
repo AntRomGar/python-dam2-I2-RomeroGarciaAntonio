@@ -1,0 +1,6 @@
+28-10-2025;13:43;Aliexpress;Correos Express
+12-09-2025;14:12;Shein;CTT Express
+09-10-2025;11:53;Amazon;Amazon Prime
+28-08-2025;13:51;Aliexpress;CTT Express
+28-08-2025;15:13;Aliexpress;Correos Express
+28-08-2025;18:30;Shein;Correos Express

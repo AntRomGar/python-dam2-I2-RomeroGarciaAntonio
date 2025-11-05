@@ -1,0 +1,19 @@
+===================== 
+Prompt 1 anidados.py:
+=====================
+Crea un programa en Python llamado Anidadas.py que registre paquetes 
+que llegan a casa usando una lista de diccionarios con fecha (DD-MM-AAAA),
+hora, tienda y repartidor. Debe tener un menú para añadir, buscar, mostrar,
+calcular estadísticas y guardar/cargar datos desde un archivo paquetes.txt.
+Incluye validaciones de errores y evita duplicados. Todo el código debe 
+estar comentado y modularizado para que sea fácil de entender por alguien 
+que está aprendiendo Python.
+
+
+==============================
+Explicacion 
+==============================
+
+usa una lista de diccionarios, 
+donde cada paquete es un diccionario con las 
+claves "fecha", "hora", "tienda" y "entregado_por"
