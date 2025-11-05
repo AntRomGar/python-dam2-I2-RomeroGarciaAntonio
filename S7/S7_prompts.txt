@@ -1,0 +1,15 @@
+===================== 
+Prompt A 1 auxprecios.py:
+=====================
+Me puedes ayduar a crear un pequeño modulo sencillo en python para analizar una lista de precio ,
+ el modulo debe, utilizar funciones Útiles para trabajar con esa lista , sin repetir calculos llamado auxprecios.py
+
+===================== 
+Prompt A 2 precios.py:
+=====================
+
+y ahora en la misma carpeta creo otro llamado precios.py
+ un programa sencillo para que lo pueda utilizar
+
+===============================================
+===============================================

@@ -41,7 +41,7 @@
     },
     {
       "nombre": "Marta España",
-      "alquileres": 1
+      "alquileres": 2
     }
   ]
 }
