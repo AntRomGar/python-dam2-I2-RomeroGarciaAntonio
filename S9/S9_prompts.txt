@@ -5,5 +5,6 @@ Realiza un programa en Python que permita registrar fichajes de entrada y salida
 este programa gestiona los fichajes de entrada y salida de empleados mediante un menú interactivo, y
 utiliza funciones con parámetros y retorno, manejo de errores con try/except y el módulo estándar datetime que
 permite registrar nuevos fichajes, mostrar el historial de registros y salir del programa, el código explicamelo,
-que sea claro y se ejecuta completamente desde la terminal.
+que sea claro y se ejecuta completamente desde la terminal, tambien quiero que sea de manera sencilla y entendible y 
+al principio de cada funcion explicame que hace.
 
