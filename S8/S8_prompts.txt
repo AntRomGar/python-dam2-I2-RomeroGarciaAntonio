@@ -17,3 +17,14 @@ Explicacion
 usa una lista de diccionarios, 
 donde cada paquete es un diccionario con las 
 claves "fecha", "hora", "tienda" y "entregado_por"
+
+
+
+===================== 
+Prompt 1 refactor.py:
+=====================
+
+Me puedes ayudar a entender este codigo y 
+decirme que cosas estan mal y que cosas podría mejorar de este codigo?
+
+[codigo]
